@@ -1,3 +1,6 @@
+# **Archived Project Warning**  
+Practice Engine does not offer a free developer subscription. As such, this project is being archived.  
+
 # Practice Engine API Development 
 Exploring the Practice Engine API with PowerShell, Python, and other languages. 
 
